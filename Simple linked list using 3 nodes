@@ -1,3 +1,4 @@
+//Construction of a simple linked list with 3 nodes
 #include <stdio.h> 
 #include <stdlib.h> 
 struct Node { 
